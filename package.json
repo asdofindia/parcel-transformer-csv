@@ -1,6 +1,6 @@
 {
   "name": "parcel-transformer-csv",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Import CSV as object through parcel",
   "main": "index.js",
   "scripts": {
