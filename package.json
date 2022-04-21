@@ -1,0 +1,32 @@
+{
+  "name": "parcel-transformer-csv",
+  "version": "0.0.1",
+  "description": "Import CSV as object through parcel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asdofindia/parcel-transformer-csv.git"
+  },
+  "keywords": [
+    "parcel",
+    "transformer",
+    "parcel-transformer",
+    "csv"
+  ],
+  "author": "Akshay S Dinesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asdofindia/parcel-transformer-csv/issues"
+  },
+  "homepage": "https://github.com/asdofindia/parcel-transformer-csv#readme",
+  "dependencies": {
+    "@parcel/plugin": "^2.4.1",
+    "papaparse": "^5.3.2"
+  },
+  "engines": {
+    "parcel": "2.x"
+  }
+}
